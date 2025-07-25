@@ -17,6 +17,7 @@ This project demonstrates a complete AI-driven pipeline to forecast stock prices
 
 ## 📂 Project Structure
 
+```
 stock_forecast_project/
 │
 ├── data_pipeline.py # Fetch stock data + add indicators
@@ -26,7 +27,7 @@ stock_forecast_project/
 ├── templates/
 │ └── index.html # HTML template for display
 ├── README.md # You're reading it
-
+```
 ---
 
 ## 🛠️ Setup Instructions

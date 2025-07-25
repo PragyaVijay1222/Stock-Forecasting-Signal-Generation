@@ -63,24 +63,6 @@ else:
 
 This reflects simple rule-based decision logic that can be extended to more advanced strategies later.
 
----
-
-## 💬 Interview Talking Points
-
-- **What did you build?**  
-  A pipeline that forecasts stock prices using real data, calculates trading indicators, and generates AI-driven trading signals.
-
-- **Why Prophet?**  
-  It’s simple, fast, and explains trends clearly — perfect for showcasing ML in finance.
-
-- **How did you engineer features?**  
-  Used TA-Lib (via `ta` library) to extract RSI, MACD, and Bollinger Bands.
-
-- **What would you improve?**  
-  Add LSTM or XGBoost, implement a backtesting module, and expand to a portfolio dashboard with multi-stock support.
-
-- **How does this match the job?**  
-  It covers forecasting, feature engineering, signal generation, and end-to-end analytics — all core to financial ML roles.
 
 ---
 
